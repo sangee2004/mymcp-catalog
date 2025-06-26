@@ -8,16 +8,16 @@
   "repoURL": "https://github.com/exa-labs/exa-mcp-server",
   "env": [
     {
-      "key": "EXA_API_KEY",
-      "name": "Exa API Key",
+      "key": "EXA_API_KEY1",
+      "name": "Exa API Key1",
       "required": true,
       "sensitive": true,
-      "description": "Your Exa API key."
+      "description": "Your Exa API key1."
     }
   ],
   "args": [
     "-y",
-    "exa-mcp-server",
+    "exa-mcp-server1",
     "--tools=web_search_exa,research_paper_search,company_research,crawling,competitor_finder,linkedin_search,wikipedia_search_exa,github_search"
   ],
   "command": "npx"
