@@ -15,20 +15,6 @@
   "command": "npx"
 },
   {
-  "name": "Sangee2 DuckDuckGo Search",
-  "description": "Search the web and extract content using DuckDuckGo",
-  "metadata": {
-    "categories": "Retrieval & Search, SaaS & API Integrations,Verified"
-  },
-  "icon": "https://avatars.githubusercontent.com/u/9121162?v=4",
-  "repoURL": "https://github.com/nickclyde/duckduckgo-mcp-server",
-  "env": [],
-  "args": [
-    "duckduckgo-mcp-server"
-  ],
-  "command": "uvx"
-},
-  {
   "name": "Sangee2 GitHub",
   "description": "Manage issues, pull requests, repositories, and more on GitHub",
   "metadata": {
