@@ -13,5 +13,18 @@
     "@openbnb/mcp-server-airbnb"
   ],
   "command": "npx"
-}
+},
+        {
+    "name": "sangee3 test1",
+    "repoURL": "https://example.com/3",
+    "description": "Test 3",
+    "metadata": {
+      "categories": "Retrieval & Search"
+    },
+    "env": [],
+    "args": [
+      "--version"
+    ],
+    "command": "npx"
+  }
 ]
