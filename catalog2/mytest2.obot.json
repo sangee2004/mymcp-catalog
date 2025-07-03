@@ -78,7 +78,20 @@
   "command": "docker"
 },
     {
-    "name": "sangee2 test",
+    "name": "sangee2 test1",
+    "repoURL": "https://example.com/3",
+    "description": "Test 3",
+    "metadata": {
+      "categories": "Retrieval & Search"
+    },
+    "env": [],
+    "args": [
+      "--version"
+    ],
+    "command": "npx"
+  },
+      {
+    "name": "sangee2 test2",
     "repoURL": "https://example.com/3",
     "description": "Test 3",
     "metadata": {
