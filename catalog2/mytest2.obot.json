@@ -76,6 +76,19 @@
     "ghcr.io/obot-platform/mcp-images-github:main"
   ],
   "command": "docker"
-}
+},
+    {
+    "name": "sangee2 test",
+    "repoURL": "https://example.com/3",
+    "description": "Test 3",
+    "metadata": {
+      "categories": "Retrieval & Search"
+    },
+    "env": [],
+    "args": [
+      "--version"
+    ],
+    "command": "npx"
+  }
 ]
 
