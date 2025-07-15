@@ -1,6 +1,6 @@
 {
-  "name": "GitHub",
-  "description": "Manage issues, pull requests, repositories, and more on GitHub",
+  "name": "GitHubUpdated",
+  "description": "Manage issues, pull requests, repositories, and more on GitHub Updated",
   "metadata": {
     "categories": "Developer Tools,Verified",
     "unsupportedTools": "create_or_update_file,push_files"
@@ -16,23 +16,30 @@
       "description": "GitHub Personal Access Token used to authenticate with the GitHub API. Required for all GitHub operations."
     },
     {
-      "key": "GITHUB_TOOLSETS",
+      "key": "GITHUB_TOOLSETS_updated",
       "name": "Toolsets",
       "required": false,
       "sensitive": false,
       "description": "Comma-separated list of enabled GitHub toolsets (e.g. repos,issues,pull_requests,code_security,experiments,all). Optional, defaults to all."
     },
     {
-      "key": "GITHUB_DYNAMIC_TOOLSETS",
+      "key": "GITHUB_DYNAMIC_TOOLSETS_updated",
       "name": "Dynamic Toolsets",
       "required": false,
       "sensitive": false,
-      "description": "Set to 1 to enable dynamic tool discovery. Optional."
+      "description": "Set to 1 to enable dynamic tool discovery. Optional. updated"
     },
     {
       "key": "GITHUB_HOST",
       "name": "GitHub Enterprise Host",
       "required": false,
+      "sensitive": false,
+      "description": "GitHub Enterprise Server hostname (e.g. https://ghes.example.com). Optional, for GitHub Enterprise integration."
+    },
+        {
+      "key": "NEW_GITHUB_HOST",
+      "name": "GitHub Enterprise Host",
+      "required": true,
       "sensitive": false,
       "description": "GitHub Enterprise Server hostname (e.g. https://ghes.example.com). Optional, for GitHub Enterprise integration."
     }
