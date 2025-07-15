@@ -1,6 +1,6 @@
 {
   "name": "Argo CD",
-  "description": "Argo CD MCP Server"
+  "description": "Argo CD MCP Server",
   "metadata": {
     "categories": "Developer Tools,Infrastructure & DevOps,Verified"
   },
