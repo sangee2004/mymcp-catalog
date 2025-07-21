@@ -1,6 +1,6 @@
   {
-  "name": "Sangeenew Airbnb",
-  "description": "Search and retrieve information about Airbnb listings",
+  "name": "Sangeenew Airbnb updated",
+  "description": "Search and retrieve information about Airbnb listings updated",
   "metadata": {
     "categories": "Retrieval & Search, SaaS & API Integrations, Maps & Location,Verified"
   },
@@ -9,7 +9,7 @@
   "env": [],
   "args": [
     "-y",
-    "@openbnb/mcp-server-airbnb"
+    "@openbnb/mcp-server-airbnb@latest"
   ],
   "command": "npx"
 },
