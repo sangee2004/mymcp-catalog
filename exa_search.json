@@ -1,5 +1,5 @@
 {
-  "name": "Exa Search new21Updated",
+  "name": "Exa Search new",
   "description": "Perform real-time web, academic, company, and code searches via Exa AI Search",
   "metadata": {
     "categories": "Retrieval & Search,Science & Research,Developer Tools,Verified"
@@ -15,11 +15,11 @@
       "description": "Your Exa API key20."
     },
     {
-      "key": "EXA_API_KEY22",
-      "name": "Exa API Key22",
+      "key": "EXA_API_KEY23",
+      "name": "Exa API Key23",
       "required": true,
       "sensitive": true,
-      "description": "Your Exa API key22."
+      "description": "Your Exa API key23."
     }
   ],
   "args": [
