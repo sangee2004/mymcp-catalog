@@ -1,5 +1,5 @@
 {
-  "name": "Exa Search new21",
+  "name": "Exa Search new21Updated",
   "description": "Perform real-time web, academic, company, and code searches via Exa AI Search",
   "metadata": {
     "categories": "Retrieval & Search,Science & Research,Developer Tools,Verified"
@@ -8,11 +8,18 @@
   "repoURL": "https://github.com/exa-labs/exa-mcp-server",
   "env": [
     {
-      "key": "EXA_API_KEY21",
-      "name": "Exa API Key21",
+      "key": "EXA_API_KEY20",
+      "name": "Exa API Key20",
       "required": true,
       "sensitive": true,
-      "description": "Your Exa API key21."
+      "description": "Your Exa API key20."
+    },
+    {
+      "key": "EXA_API_KEY22",
+      "name": "Exa API Key22",
+      "required": true,
+      "sensitive": true,
+      "description": "Your Exa API key22."
     }
   ],
   "args": [
