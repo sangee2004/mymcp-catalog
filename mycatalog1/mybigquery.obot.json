@@ -1,4 +1,4 @@
-name: BigQuery Toolbox
+name: SangeeBigQuery Toolbox
 description: |
   A Model Context Protocol (MCP) server that enables secure interaction with Google BigQuery. This server facilitates communication between AI applications and BigQuery datasets, making data exploration and analysis structured through a controlled interface.
 
