@@ -72,7 +72,6 @@ env:
     required: false
     sensitive: false
     description: Service identifier for chart generation records
-runtime: npx
-ffg
+runtime: npx1
 npxConfig:
   package: '@antv/mcp-server-chart'
