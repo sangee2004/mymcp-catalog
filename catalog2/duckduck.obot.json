@@ -18,17 +18,6 @@ metadata:
 icon: https://img.icons8.com/?size=100&id=63778&format=png&color=000000
 repoURL: https://github.com/nickclyde/duckduckgo-mcp-server
 env: []
-toolPreview:
-  - name: search
-    description: Search DuckDuckGo and return formatted results.
-    params:
-      query: The search query string
-      max_results: Optional maximum number of results to return (default 10)
-  - name: fetch_content
-    description: Fetch and parse content from a webpage URL.
-    params:
-      url: The webpage URL to fetch content from
-
 runtime: uvx
 uvxConfig:
   package: duckduckgo-mcp-server
