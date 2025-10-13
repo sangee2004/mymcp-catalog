@@ -21,3 +21,9 @@ env: []
 runtime: uvx
 uvxConfig:
   package: duckduckgo-mcp-server
+env:
+  - key: API key
+    name: API key
+    required: true
+    sensitive: false
+    description: testing updates from catalog
