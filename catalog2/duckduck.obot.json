@@ -27,3 +27,8 @@ env:
     required: true
     sensitive: false
     description: testing updates from catalog
+  - key: API key2
+    name: API key2
+    required: true
+    sensitive: false
+    description: testing updates from catalog2
